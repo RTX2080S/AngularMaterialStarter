@@ -1,5 +1,7 @@
 # Angular Material Starter
 
+Angular 5 + Angular Material starter project. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
